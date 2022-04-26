@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1649496240 source:f:\projetos\09_04_22_exercicio3\main.cpp
+	<conio.h>
+	<stdio.h>
+	<string.h>
+	<locale.h>
+	<math.h>
+
